@@ -22,7 +22,7 @@ function dcodesyntaxhighlight_info()
 		"website"		=> "http://rashanhasaranga.com",
 		"author"		=> "Rashan Hasaranga",
 		"authorsite"	=> "http://rashanhasaranga.com",
-		"version"		=> "1.0",
+		"version"		=> "1.1",
 		"codename"		=> "dcodesyntaxhighlight",
 		"compatibility" => "*"
 	);
