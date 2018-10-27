@@ -41,3 +41,5 @@ List of supported programming languages
     VBScript
 
 Special thanks to HighlightJS.
+
+/*! highlight.js v9.12.0 | BSD3 License | git.io/hljslicense */
